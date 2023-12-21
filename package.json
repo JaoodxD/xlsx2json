@@ -11,6 +11,6 @@
   "author": "Maksym Shenderuk <jaood96@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "xlsxtream": "^2.0.0"
+    "xls-to-json": "^2.1.1"
   }
 }
