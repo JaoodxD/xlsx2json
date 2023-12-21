@@ -1,0 +1,16 @@
+{
+  "name": "xlsx2json",
+  "version": "1.0.0",
+  "description": "Project to convert prom.ua xlsx categories data to json",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Maksym Shenderuk <jaood96@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xlsxtream": "^2.0.0"
+  }
+}
