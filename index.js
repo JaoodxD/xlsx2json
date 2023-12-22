@@ -41,7 +41,7 @@ const fullData = data.map(row => {
 
 const minData = fullData.map(({ id_category: value, parent_list }) => ({
   value,
-  name: parent_list.at(-1)
+  label: parent_list.at(-1)
 }))
 
 console.timeEnd('process')
